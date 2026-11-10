@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "nome": "PC Gamer LuX Dragon",
+    "marca": "GameLuX Custom",
+    "preco": 6499,
+    "imagemUrl": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=500",
+    "descricao": "PC gamer com desempenho extremo para jogos e produtividade.",
+    "quantidadeEstoque": 4,
+    "avaliacao": 5,
+    "emDestaque": true,
+    "tipo_categoria": "computador",
+    "processador": "Intel Core i7 13700F",
+    "placaDeVideo": "RTX 4070 12GB",
+    "memoriaRamGb": 32,
+    "armazenamento": "1TB SSD NVMe",
+    "fonteAlimentacao": "750W 80 Plus Gold",
+    "possuiWaterCooler": true
+  },
+  {
+    "id": "2",
+    "nome": "Teclado Mecânico RGB Pro",
+    "marca": "Razer",
+    "preco": 499.9,
+    "imagemUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500",
+    "descricao": "Switches táteis com iluminação RGB e alta durabilidade.",
+    "quantidadeEstoque": 15,
+    "avaliacao": 4.8,
+    "emDestaque": false,
+    "tipo_categoria": "periferico",
+    "tipoConexao": "USB Type-C",
+    "iluminacaoRgb": true,
+    "dpiOuFrequencia": 1000,
+    "subcategoria": "Teclado Mecânico"
+  },
+  {
+    "id": "3",
+    "nome": "Console NextGen Station",
+    "marca": "Sony",
+    "preco": 4299,
+    "imagemUrl": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=500",
+    "descricao": "Experiência imersiva com suporte 4K e carregamento ultrarrápido.",
+    "quantidadeEstoque": 7,
+    "avaliacao": 4.9,
+    "emDestaque": true,
+    "tipo_categoria": "console",
+    "plataforma": "PlayStation 5",
+    "capacidadeArmazenamento": "1TB SSD",
+    "quantidadeControlesInclusos": 1,
+    "suportaMidiaFisica": true
+  }
+]
